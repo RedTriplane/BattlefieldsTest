@@ -1,0 +1,6 @@
+
+include "battlefields-p18-test"
+include "battlefields-pizza-test"
+include "battlefields-terrain-test"
+include "battlefields-terrain-p18-test"
+

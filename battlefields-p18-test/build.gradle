@@ -1,0 +1,5 @@
+dependencies {
+             
+compile "com.github.RedTriplane.Battlefields:battlefields-maze-api:$BFsAPILevel"
+
+}
